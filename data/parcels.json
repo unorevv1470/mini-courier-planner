@@ -1,0 +1,67 @@
+
+[
+  {
+    "id": "P01",
+    "dest": "N2",
+    "weight": 4,
+    "value": 90,
+    "priority": 5,
+    "deadline_hr": 2.0
+  },
+  {
+    "id": "P02",
+    "dest": "N3",
+    "weight": 7,
+    "value": 140,
+    "priority": 4,
+    "deadline_hr": 4.0
+  },
+  {
+    "id": "P03",
+    "dest": "N4",
+    "weight": 3,
+    "value": 65,
+    "priority": 3,
+    "deadline_hr": 5.0
+  },
+  {
+    "id": "P04",
+    "dest": "N5",
+    "weight": 6,
+    "value": 120,
+    "priority": 5,
+    "deadline_hr": 3.0
+  },
+  {
+    "id": "P05",
+    "dest": "N6",
+    "weight": 5,
+    "value": 85,
+    "priority": 2,
+    "deadline_hr": 8.0
+  },
+  {
+    "id": "P06",
+    "dest": "N2",
+    "weight": 2,
+    "value": 50,
+    "priority": 4,
+    "deadline_hr": 1.5
+  },
+  {
+    "id": "P07",
+    "dest": "N7",
+    "weight": 8,
+    "value": 150,
+    "priority": 3,
+    "deadline_hr": 6.0
+  },
+  {
+    "id": "P08",
+    "dest": "N4",
+    "weight": 4,
+    "value": 75,
+    "priority": 2,
+    "deadline_hr": 7.0
+  }
+]
